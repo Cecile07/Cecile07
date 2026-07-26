@@ -1,26 +1,26 @@
 # Hi there, I'm  Mbuyi Cecile Ngoie 👋
 
-## AI & Machine Learning Researcher | Explainable AI (XAI) | Healthcare AI | Data Science
+## AI & Machine Learning Engineer | Explainable AI (XAI) | Data Science | Applied AI Research
 
-I am an AI and Machine Learning enthusiast specializing in **Explainable Artificial Intelligence (XAI)**, **Machine Learning**, **Natural Language Processing (NLP)**, and **Predictive Analytics**. I am passionate about building intelligent systems that are not only accurate but also transparent, interpretable, and trustworthy.
+I am an AI and Machine Learning enthusiast focused on building intelligent systems that are accurate, interpretable, and trustworthy. My interests include **Explainable Artificial Intelligence (XAI)**, **Machine Learning**, **Deep Learning**, **Natural Language Processing (NLP)**, and **Predictive Analytics**.
 
-I recently completed my **M.Sc. in Information Technology** and have developed AI projects focused on healthcare analytics, climate intelligence, and trustworthy AI. My work explores how machine learning and explainability techniques can transform complex data into meaningful insights for real-world applications.
+I recently completed my **M.Sc. in Information Technology** and have hands-on experience developing end-to-end AI solutions, including data preprocessing, machine learning modeling, evaluation, and Explainable AI techniques.
 
-I am currently exploring research opportunities and PhD studies in **Artificial Intelligence, Explainable AI, and Applied Machine Learning**.
+I enjoy applying artificial intelligence to real-world problems across different domains, including healthcare analytics, climate intelligence, and natural language processing. My goal is to develop AI systems that combine strong predictive performance with transparency and practical impact.
 
 ---
 
-## 🔬 Research Interests
+## 🔬 Areas of Interest
 
 - Explainable Artificial Intelligence (XAI)
 - Machine Learning
 - Deep Learning
-- Healthcare AI
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Computer Vision
-- Climate Intelligence
 - Predictive Analytics
 - Trustworthy and Responsible AI
+- Applied Artificial Intelligence
+- Data Science
 
 ---
 
@@ -36,17 +36,18 @@ I am currently exploring research opportunities and PhD studies in **Artificial 
 - C
 - C++
 
-### Artificial Intelligence & Machine Learning
+### AI & Machine Learning
 
 - Supervised & Unsupervised Learning
+- Machine Learning Algorithms
 - Deep Learning
 - Natural Language Processing
-- Transformers
+- Transformer Models
 - BERT
 - Explainable AI (SHAP, LIME)
 - Predictive Modeling
 
-### Frameworks & Libraries
+### Libraries & Frameworks
 
 - Scikit-learn
 - TensorFlow
@@ -73,33 +74,41 @@ I am currently exploring research opportunities and PhD studies in **Artificial 
 
 ### 🧬 Glucose Level Prediction Using Machine Learning and Explainable AI
 
-AI-based healthcare analytics project for predicting glucose levels using clinical and lifestyle-related features. The project integrates Explainable AI techniques including Feature Importance, Partial Dependence Plots (PDP), SHAP, and LIME to understand model decisions.
+An AI-based healthcare analytics project for predicting glucose levels using clinical and lifestyle-related features. The project integrates Explainable AI techniques including Feature Importance, Partial Dependence Plots (PDP), SHAP, and LIME to understand model predictions.
+
+---
 
 ### 🩺 Breast Cancer Prediction Using Explainable AI
 
-Machine learning classification system for predicting benign and malignant breast tumors using clinical features. The project applies SHAP and LIME to provide transparent model explanations.
+A machine learning classification system for predicting breast cancer outcomes using clinical features. The project applies SHAP and LIME to improve model transparency and explain the factors influencing predictions.
+
+---
 
 ### 📝 Fake Review Detection Using Transformer Models and Explainable AI
 
-Research project using BERT-based Natural Language Processing models to detect fraudulent online reviews. The system integrates Explainable AI methods to analyze model predictions.
+A Natural Language Processing research project using transformer-based models such as BERT for detecting fake reviews. Explainable AI techniques are applied to analyze model decisions and improve interpretability.
+
+---
 
 ### 🌡️ AI-Powered Climate Temperature Analytics & Forecasting System
 
-Machine learning project focused on analyzing large-scale climate data, identifying temperature trends, and developing predictive models for climate analytics.
+A machine learning project focused on analyzing large-scale climate datasets, discovering temperature patterns, and developing predictive models for climate analytics.
+
+---
 
 ### ❤️ Heart Disease Risk Prediction Using Machine Learning and Explainable AI
 
-Healthcare prediction system using clinical features with model interpretation through Feature Importance, PDP, SHAP, and LIME.
+A healthcare prediction system using machine learning models with Explainable AI methods to understand important risk factors and model behavior.
 
 ---
 
 ## 📚 Publication
 
-**Fake Review Detection Using Transformer-Based Models with Explainable AI and ML Techniques**
+### Fake Review Detection Using Transformer-Based Models with Explainable AI and ML Techniques
 
-Published in the *International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED).*
+Published in the **International Journal of Advanced Multidisciplinary Research and Educational Development (IJAMRED).**
 
-Research focus:
+Research areas:
 - Natural Language Processing
 - Transformer Models
 - Explainable AI
@@ -118,12 +127,12 @@ Research focus:
 
 ---
 
-## 🏆 Goals
+## 🎯 Goals
 
-- Develop trustworthy and interpretable AI systems
-- Contribute to AI research through publications and projects
-- Explore PhD opportunities in Artificial Intelligence and Machine Learning
-- Build AI solutions with real-world social impact
+- Build reliable and interpretable AI systems
+- Develop practical AI solutions for real-world problems
+- Contribute to AI research and innovation
+- Explore opportunities in AI engineering, machine learning, and applied research
 
 ---
 
@@ -134,4 +143,4 @@ Research focus:
 
 ---
 
-*"Building AI systems that are accurate, explainable, and trustworthy."*
+*"Building AI systems that are accurate, explainable, and impactful."*
