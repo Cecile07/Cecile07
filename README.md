@@ -96,9 +96,9 @@ A machine learning project focused on analyzing large-scale climate datasets, di
 
 ---
 
-### ❤️ Heart Disease Risk Prediction Using Machine Learning and Explainable AI
+### ❤️ Heart Disease Risk Prediction Using Machine Learning
 
-A healthcare prediction system using machine learning models with Explainable AI methods to understand important risk factors and model behavior.
+A machine learning-based healthcare prediction project that analyzes clinical and lifestyle-related features to identify factors associated with heart disease risk. The project includes data preprocessing, exploratory data analysis, model development, and performance evaluation to build a predictive healthcare analytics solution.
 
 ---
 
